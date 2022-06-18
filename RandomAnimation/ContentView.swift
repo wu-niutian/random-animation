@@ -122,7 +122,7 @@ struct ContentView: View {
                 VStack{
                     if pawPatrolHelpers{
                         VStack{
-                            Text("RING RING PAW PATROL IS HERE TO SAVE YOU!")
+                            Text("RING RING CAT PATROL IS HERE TO SAVE YOU!")
                                 .foregroundColor(.white)
                                 .bold()
                             Image("PawPatrolSavers")
