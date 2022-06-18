@@ -91,7 +91,7 @@ struct ContentView: View {
                                 .offset(x: CGFloat(appleRight), y: 0 )
                             
                             Text("🍎🍎🍎🍎🍎")
-                                .font(.system(size:60))
+                                .font(.system(size:70))
                                 .transition(.move(edge: .leading))
                                 .offset(x: CGFloat(appleRight), y: 0 )
                             
@@ -101,12 +101,12 @@ struct ContentView: View {
                                 .offset(x: CGFloat(appleRight), y: 0 )
                             
                             Text("🍎🍎🍎🍎🍎")
-                                .font(.system(size:60))
+                                .font(.system(size:70))
                                 .transition(.move(edge: .leading))
                                 .offset(x: CGFloat(appleRight), y: 0 )
                             
                             Text("🍎🍎🍎🍎🍎")
-                                .font(.system(size:60))
+                                .font(.system(size:70))
                                 .transition(.move(edge: .leading))
                                 .offset(x: CGFloat(appleRight), y: 0 )
                         }
